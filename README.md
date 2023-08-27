@@ -28,8 +28,8 @@ EMAIL_ID = Any email ID,
 Type_Occupation = Occupation,
 Family_Members = Family size,
 #### Using vloopup i have joined the second table with respect to ind_id
-Credit_card_label_ID = The joining key between application data and credit status data, same is Ind_ID,
-Credit_card_label_Label = 0 is application approved and 1 is application rejected,
+<br>Credit_card_label_ID = The joining key between application data and credit status data, same is Ind_ID,
+<br>Credit_card_label_Label = 0 is application approved and 1 is application rejected,
 
 ## Why credit card approval Prediction is Necessary?
 
