@@ -9,26 +9,26 @@ The main objective of this assignment is to minimize the risk and maximize the p
 In this project we are utilizing the exploratory data analysis (EDA) as a data exploration technique to acquire knowledge, discover new relations, apply new methodologies and unravel patterns in data. It is important to apply the necessary rationale behind each step to address the main objective of the study.
 
 ## Dataset Description: Features Name: Credit_Card.csv, Credit_card_label.csv
-Ind_ID: Client ID
-Gender: Gender information
-Car_owner: Having car or not
-Propert_owner: Having property or not
-Children: Count of children
-Annual_income: Annual income
-Type_Income: Income type
-Education: Education level
-Marital_status: Marital_status
-Housing_type: Living style
-Birthday_count: Use backward count from current day (0), -1 means yesterday.	
-Employed_days: Start date of employment. Use backward count from current day (0). Positive value means, individual is currently unemployed.
-Mobile_phone: Any mobile phone
-Work_phone:	Any work phone
-Phone: Any phone number
-EMAIL_ID: Any email ID
-Type_Occupation: Occupation
-Family_Members: Family size
-Credit_card_label_ID: The joining key between application data and credit status data, same is Ind_ID
-Credit_card_label_Label: 0 is application approved and 1 is application rejected.
+Ind_ID: Client ID, 
+Gender: Gender information, 
+Car_owner: Having car or not, 
+Propert_owner: Having property or not, 
+Children: Count of children, 
+Annual_income: Annual income,
+Type_Income: Income type,
+Education: Education level,
+Marital_status: Marital_status,
+Housing_type: Living style,
+Birthday_count: Use backward count from current day (0), -1 means yesterday,	
+Employed_days: Start date of employment. Use backward count from current day (0). Positive value means, individual is currently unemployed,
+Mobile_phone: Any mobile phone,
+Work_phone:	Any work phone,
+Phone: Any phone number,
+EMAIL_ID: Any email ID,
+Type_Occupation: Occupation,
+Family_Members: Family size,
+Credit_card_label_ID: The joining key between application data and credit status data, same is Ind_ID,
+Credit_card_label_Label: 0 is application approved and 1 is application rejected,
 
 ## Why credit card approval Prediction is Necessary?
 
